@@ -12,8 +12,5 @@ class Solution(object):
             digit = x%10
             result = result*10 + digit
             x = x//10
-
-        if original == result:
-            return True
-        else:
-            return False
+        return original == result
+      
