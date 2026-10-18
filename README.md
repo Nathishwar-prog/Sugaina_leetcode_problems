@@ -8,9 +8,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Sugainasyedali/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Sugainasyedali/leetcode_problems/tree/master/1920-build-array-from-permutation) |
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Sugainasyedali/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/Sugainasyedali/leetcode_problems/tree/master/2235-add-two-integers) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Sugainasyedali/leetcode_problems/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
