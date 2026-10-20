@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sugainasyedali/leetcode_problems/tree/master/0217-contains-duplicate) |
+| [1672-richest-customer-wealth](https://github.com/Sugainasyedali/leetcode_problems/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Sugainasyedali/leetcode_problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Sugainasyedali/leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sugainasyedali/leetcode_problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sugainasyedali/leetcode_problems/tree/master/0217-contains-duplicate) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Sugainasyedali/leetcode_problems/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
