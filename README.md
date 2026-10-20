@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sugainasyedali/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/Sugainasyedali/leetcode_problems/tree/master/1108-defanging-an-ip-address) |
+| [1678-goal-parser-interpretation](https://github.com/Sugainasyedali/leetcode_problems/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sugainasyedali/leetcode_problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sugainasyedali/leetcode_problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
