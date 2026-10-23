@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Sugainasyedali/leetcode_problems/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Sugainasyedali/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Sugainasyedali/leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sugainasyedali/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sugainasyedali/leetcode_problems/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Sugainasyedali/leetcode_problems/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/Sugainasyedali/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sugainasyedali/leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/Sugainasyedali/leetcode_problems/tree/master/2235-add-two-integers) |
